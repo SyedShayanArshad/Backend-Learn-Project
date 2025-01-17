@@ -1,0 +1,8 @@
+1. backed ko frontend k sath connect krty wakat error ata hai cors ka mtlb ye k 
+backend or frontend ka origin(url,port) different hai is lye wo use exccess nai kr skta iska solution ye hai k 
+npm cors install krle or usme apni mrzi se chahe to whitelist kr skte hen yan dusra sol ye hai k proxy use krlen
+2. moon modeler is used to create structure of(data models) of data and that create code of that model to u.
+eraser is also used and also is free
+3. jb ham model ka name dete hen to mongodb me wo us k name ko plural me kr deta hai like user=>users
+4. enum used in attribute for choices
+
