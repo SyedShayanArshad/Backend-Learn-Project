@@ -5,4 +5,11 @@ npm cors install krle or usme apni mrzi se chahe to whitelist kr skte hen yan du
 eraser is also used and also is free
 3. jb ham model ka name dete hen to mongodb me wo us k name ko plural me kr deta hai like user=>users
 4. enum used in attribute for choices
-
+5. index true in object of schema mean easy to search data in an optimize way
+6. Cloudinary url is used to upload video & images and get url
+7. mongoose-aggregate-paginate ek NPM package hai jo Mongoose aggregate queries ke liye pagination provide
+karta hai. Iska use tab hota hai jab hume large datasets ko page-wise fetch karna ho, taaki performance
+optimize ho.
+8. bcrypt/bcryptjs is a library used to hash password
+9. JWT) {jwt is a bearer token[mtlb jo muje token de ga use me data dun ga]} ek NPM package hai jo JSON Web Tokens ko generate, sign, verify aur decode karne ke liye use hota hai.
+Ye authentication aur secure data transfer ke liye kaam aata hai.
