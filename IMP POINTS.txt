@@ -13,3 +13,5 @@ optimize ho.
 8. bcrypt/bcryptjs is a library used to hash password
 9. JWT) {jwt is a bearer token[mtlb jo muje token de ga use me data dun ga]} ek NPM package hai jo JSON Web Tokens ko generate, sign, verify aur decode karne ke liye use hota hai.
 Ye authentication aur secure data transfer ke liye kaam aata hai.
+10. Multer/Express-FileUploader is a npm library used to upload file
+11. fs is a built-in node js library to read/write a file
